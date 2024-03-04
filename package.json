@@ -1,0 +1,24 @@
+{
+  "name": "vue-byt",
+  "version": "1.0.0",
+  "description": "vv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleksandrchob/vue.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0",
+    "js-toolkit-vd": "1.0.0",
+    "oc-kit": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksandrchob/vue/issues"
+  },
+  "homepage": "https://github.com/oleksandrchob/vue#readme"
+}
